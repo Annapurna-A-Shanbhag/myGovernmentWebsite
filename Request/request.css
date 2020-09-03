@@ -1,0 +1,15 @@
+.requestDiv{
+    background-color:whitesmoke;
+    margin-left:500px;
+    width:700px;
+    border: 1px solid #eee;
+    box-shadow: 10px 10px 10px #ccc;
+    box-sizing:border-box;
+}
+#inputDiv{
+    width:300px;
+}
+#labal{
+   margin-right:100px;
+   width:200px;
+}

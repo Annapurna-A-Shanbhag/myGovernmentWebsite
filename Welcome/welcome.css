@@ -1,0 +1,17 @@
+.links{
+    margin-left:70px;
+    display:inline-block;
+}
+.linkDiv{
+    margin-left:900px;
+    background-color:whitesmoke;
+}
+.welcomeDiv{
+    background-color:whitesmoke;
+    margin:40px;
+    width:400px;
+    border: 1px solid black;
+    box-shadow: 10px 10px 10px #ccc;
+    box-sizing:border-box;
+    display:inline-table
+}
